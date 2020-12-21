@@ -13,9 +13,9 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I'm a computer science graduate student at the University of Minnesota, Twin Cities</p>
-                    <p>I'm curious about software development and engineering designs, life cycle, and management in both industry and academia. I particularly enjoy doing back-end development or anything involving implementing business logic. Exploring different methods of deploying software, especially with Dev Ops methodologies, is also interesting to me. Open to software engineering positions, research opportunities, or cookout invites.</p>
-                    <p>Outside of programming, I enjoy watching psychological thriller movies, playing blues guitar, golfing, and cooking.</p>
+                    <p>I'm a computer science graduate student at the University of Minnesota, Twin Cities.</p>
+                    <p>I'm curious about software development and engineering designs, life cycle, and management in both industry and academia. I particularly enjoy doing back-end development or anything that involves implementing business logic. Exploring different methods of deploying software, especially with DevOps methodologies, is also interesting to me. Outside of programming, I enjoy watching psychological thriller movies, playing blues guitar, golfing, and cooking.</p>
+                    <p>Open to software engineering positions, research opportunities, or cookout invites.</p>
                     </div>
                 </div>
                 </div>
@@ -50,8 +50,8 @@ export default class About extends Component {
                     <i className="icon-cloud-storage" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I'm passionate about deploying software utilizing Dev Ops methodologies with technologies like Gitlab, Drone, AWS, Azure DevOps, Docker, and K8s.</p>
+                    <h3>DevOps</h3>
+                    <p>I'm passionate about deploying software utilizing DevOps methodologies with technologies like Gitlab, Drone, AWS, Azure DevOps, Docker, and K8s.</p>
                 </div>
                 </div>
             </div>
@@ -66,41 +66,6 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
-            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
-                </div>
-                </div>
-            </div>
-            */}
             </div>
         </div>
         </section>

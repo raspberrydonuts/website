@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Began Graduate Studies <span>January 2021</span></h2>
-                        <p>I completed my undergraduate studies for my Bachelor of Science in computer science and began my graduate studies at the University of Minnesota, Twin Cities to obtain my Master of Science in Computer Science. Planning to pursue research in software engineering</p>
+                        <p>I completed my undergraduate studies for my Bachelor of Science in computer science and began my graduate studies at the University of Minnesota, Twin Cities to obtain my Master of Science in computer science. Planning to pursue research in software engineering</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineering Internship at Target Corporation <span>May 2020-December 2020</span></h2>
-                        <p>This was a remote internship during the COVID-19 pandemic where I was a member of the 3D Outbound team in the supply chain division. Here, I modernized legacy supply chain SQL procedures to Java Spring Boot services. Additionally, I built, deployed, and maintained a centralized search interface with ReactJS that allowed teams to more efficiently track the movement of products in distribution centers. My internship was extended throughout the school semester, and during this time I resolved external data access issues by engineering Kotlin Spring Boot microservices for other teams to access supply chain Oracle databases.</p>
+                        <p>This was a remote internship during the COVID-19 pandemic where I was a member of the 3D Outbound team in the supply chain division. Here, I modernized legacy supply chain SQL procedures to Java Spring Boot services. Additionally, I built, deployed, and maintained a centralized, ReactJS search interface that allowed teams to more efficiently track the movement of products in distribution centers. My internship was extended throughout the school semester, and during this time I resolved external data access issues by engineering Kotlin Spring Boot microservices for other teams to access supply chain Oracle databases.</p>
                       </div>
                     </div>
                   </article>
@@ -43,7 +43,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Teaching Assistant at University of Minnesota <span>August 2020-December 2020</span></h2>
+                        <h2>Teaching Assistant at UMN Department of Computer Science <span>August 2020-December 2020</span></h2>
                         <p>I was an undergraduate teaching assistant for the course: CSCI3081W - Program Design and Development under Dr. Mattia Fazzini. I collaborated with teaching staff to administer coursework, evaluate submissions, and analyze class performance in a remote learning environment due to COVID-19.</p>
                       </div>
                     </div>
@@ -54,7 +54,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Joined WECharity at University of Minnesota <span>January 2020-January 2021</span></h2>
+                        <h2>Joined WECharity at UMN <span>January 2020-January 2021</span></h2>
                         <p>I was appointed Event Chairman of the University of Minnesota's chapter of WECharity. My role was to organize charity events to raise money for specific causes. Our highlight for this year was raising over $2000 for folks in Yemen who were severely affected by the COVID-19 pandemic.</p>
                       </div>
                     </div>
@@ -65,7 +65,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Joined Girls Who Code at University of Minnesota <span>December 2019-May 2020</span></h2>
+                        <h2>Joined Girls Who Code at UMN <span>December 2019-May 2020</span></h2>
                         <p>I joined as a programming mentor for a nonprofit organization which aims to support and increase the number of women in computer science by equipping young women with the necessary computing skills to pursue 21st century opportunities. </p>
                       </div>
                     </div>
@@ -88,7 +88,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Developer Internship at COUNTRY Financial <span>May 2018-May 2019</span></h2>
-                        <p>At COUNTRY Financial, I was a technology consultant intern on the Automation and Deployments team. Here, I was introduced to software development using the Dev Ops methodology where I automated and deployed software using Gitlab pipelines to deliver applications and services at high velocity. Our team's main product was a Django web app that receives traffic from Gitlab CI Jobs and performs actions on their behalf. My role in this was implementing various services for this application using Gitlab's API. My internship was extended an entire year, where I programmed Click command-line interfaces for automation tools using Gitab’s API.</p> 
+                        <p>At COUNTRY Financial, I was a technology consultant intern on the Automation and Deployments team. Here, I was introduced to software development using the DevOps methodology where I automated and deployed software using Gitlab pipelines to deliver applications and services at high velocity. Our team's main product was a Django web app that receives traffic from Gitlab CI Jobs and performs actions on their behalf. My role in this was implementing various services for this application using Gitlab's API. My internship was extended an entire year, where I programmed Click command-line interfaces for automation tools using Gitab’s API.</p> 
                       </div>
                     </div>
                   </article>
@@ -98,7 +98,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Joined UMN Application Development Club <span>January 2018-December 2018</span></h2>
+                        <h2>Joined Application Development Club at UMN<span>January 2018-December 2018</span></h2>
                         <p>I joined my school's app dev club and I collaborated with developers and researchers to develop an application that assesses students’ competencies to identify particular social and behavioral needs and provides guidance to teachers on how to support their students using Android Studio and Java.</p> 
                       </div>
                     </div>
@@ -132,7 +132,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Began Undergraduate Studies <span>August 2017-January 2021</span></h2>
-                        <p>In 2017, I began my undergraduate studies to pursue my Bachelor of Science in computer Science. </p> 
+                        <p>In 2017, I began my undergraduate studies to pursue my Bachelor of Science in computer science at the University of Minnesota, Twin Cities. </p> 
                       </div>
                     </div>
                   </article>
