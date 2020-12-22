@@ -15,7 +15,7 @@ export default class Sidebar extends Component {
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
                 <ul>
-                  <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
+                  <li className="active" style={{marginTop: '20px'}}><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
                   {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
                   <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
@@ -31,10 +31,13 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Credit to <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for the design inspiration 
+                Feel free to reach out to my email or LinkedIn above to connect!
               </small></p>
               <p><small>
-                Feel free to reach out to my email or LinkedIn above to connect!
+                Projects section coming soon
+              </small></p>
+              <p><small>
+                  Credit to <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for the design inspiration 
               </small></p>
             </div>
           </aside>
