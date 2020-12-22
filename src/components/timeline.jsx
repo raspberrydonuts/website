@@ -17,10 +17,8 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
-                        {/* <img src="images/umn_logo.png" /> */}
-                        {/* <svg class="icon icon-umn_logo"><use xlink:href="#icon-umn_logo"></use></svg> */}
+                      <div className="timeline-icon">
+                        <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/umn_logo.png" alt="umn_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Began Graduate Studies <span>January 2021</span></h2>
@@ -31,7 +29,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
+                      <img style={{display: 'inline', marginLeft: '-10px', height: '100%', width: 'auto'}} src="images/target_logo.jpg" alt="target_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineering Internship at Target Corporation <span>May 2020-December 2020</span></h2>
@@ -42,7 +40,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
+                        <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/umn_logo.png" alt="umn_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Teaching Assistant at UMN Department of Computer Science <span>August 2020-December 2020</span></h2>
@@ -53,7 +51,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
-                        <i className="icon-pen2" />
+                      <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/we_logo.png" alt="we_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Joined WECharity at UMN <span>January 2020-January 2021</span></h2>
@@ -64,7 +62,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
-                        <i className="icon-pen2" />
+                      <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/girls_who_code.png" alt="girls_who_code"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Joined Girls Who Code at UMN <span>December 2019-May 2020</span></h2>
@@ -75,7 +73,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
+                      <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/rsm.jpg" alt="rsm_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Technology Consultant / Application Development Internship at RSM US LLP <span>June 2019-August 2019</span></h2>
@@ -86,7 +84,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
+                        <img style={{display: 'inline', marginLeft: '-7px', height: '125%', width: '125'}} src="images/cf.jpg" alt="cf_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Software Developer Internship at COUNTRY Financial <span>May 2018-May 2019</span></h2>
@@ -97,10 +95,10 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
+                        <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/appdev.png" alt="appdev"/>
                       </div>
                       <div className="timeline-label">
-                        <h2>Joined Application Development Club at UMN<span>January 2018-December 2018</span></h2>
+                        <h2>Joined Application Development Club at UMN <span>January 2018-December 2018</span></h2>
                         <p>I joined my school's app dev club and I collaborated with developers and researchers to develop an application that assesses students’ competencies to identify particular social and behavioral needs and provides guidance to teachers on how to support their students using Android Studio and Java.</p> 
                       </div>
                     </div>
@@ -108,7 +106,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
-                        <i className="icon-pen2" />
+                        <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/coderdojo.jpeg" alt="coderdojo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Joined CoderDojo <span>October 2017-January 2021</span></h2>
@@ -119,7 +117,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
-                        <i className="icon-pen2" />
+                        <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/umn_logo.png" alt="umn_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Technology Help Specialist at UMN Office of Information Technology <span>July 2017-June 2020</span></h2>
@@ -130,7 +128,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
+                        <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/umn_logo.png" alt="umn_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Began Undergraduate Studies <span>August 2017-January 2021</span></h2>
