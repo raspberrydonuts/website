@@ -19,6 +19,8 @@ export default class Timeline extends Component {
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
+                        {/* <img src="images/umn_logo.png" /> */}
+                        {/* <svg class="icon icon-umn_logo"><use xlink:href="#icon-umn_logo"></use></svg> */}
                       </div>
                       <div className="timeline-label">
                         <h2>Began Graduate Studies <span>January 2021</span></h2>
