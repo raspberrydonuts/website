@@ -1,6 +1,8 @@
 # Personal Website 
 My personal website made using React and deployed with Github Pages
 
+I used this template and implemented some of my own features on top: https://colorlib.com/wp/template/jackson/
+
 www.jaredplim.com
 
 I also made my own site data analytics engine with Node.js and MongoDB, and deployed both of these to an AWS EC2 instance.
