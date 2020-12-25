@@ -1,11 +1,9 @@
 # Personal Website 
-My personal website made using React and deployed with Github Pages
+My personal website made using React and deployed with Github Pages. Click [here](www.jaredplim.com) to check it out!
 
-I used this template and implemented some of my own features on top: https://colorlib.com/wp/template/jackson/
+I used [this template](https://colorlib.com/wp/template/jackson/) and implemented some of my own features on top
 
-www.jaredplim.com
-
-I also made my own site data analytics engine with Node.js and MongoDB, and deployed both of these to an AWS EC2 instance.
+I also made my own site data analytics engine with Node.js and MongoDB and deployed both of these to an AWS EC2 instance.
 
 
 ## Steps on getting MongoDB and Node.js server to stay running after ssh-ing into the AWS EC2 instance:
