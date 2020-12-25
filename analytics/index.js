@@ -25,6 +25,7 @@ connection.once("open", function() {
 let detail = require("./model");
 
 router.route("/getVisits").get(function(req, res) {
+    res.header("Access-Control-Allow-Headers", "X-Requested-With, x-requested-by");
     detail.find({}, function(err, result) {
       if (err) {
         res.send(err);
