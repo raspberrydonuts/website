@@ -3,7 +3,7 @@ My personal website made using React and deployed with Github Pages
 
 www.jaredplim.com
 
-Currently working on a site data analytics engine with Node.js and MongoDB. Working to deploy this to an AWS EC2 instance.
+I also made my own site data analytics engine with Node.js and MongoDB, and deployed both of these to an AWS EC2 instance.
 
 
 ## Steps on getting MongoDB and Node.js server to stay running after ssh-ing into the AWS EC2 instance:
