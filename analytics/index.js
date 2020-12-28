@@ -9,8 +9,15 @@ app.listen(PORT, function() {
   console.log("Server is running on Port: " + PORT);
 });
 
+var options = require('./options');
+
+var loginData = {
+  user: "",
+  pass: ""
+};
+
 const mongoose = require("mongoose");
-mongoose.connect("mongodb://3.132.140.197:27017/details", {
+mongoose.connect("mongodb://{loginData.user}:{loginData.pass}@3.132.140.197:27017/details", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
