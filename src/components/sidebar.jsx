@@ -9,7 +9,7 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpeg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Jared Lim</a></h1>
+              <h1 id="colorlib-logo"><a href="index.html">jared lim</a></h1>
               <span className="email"><i className="icon-mail"></i> jarpatlim(at)gmail(dot)com</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -20,6 +20,7 @@ export default class Sidebar extends Component {
                   {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
                   <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
+                  <li><a href="#photos" data-nav-section="photos">Photos</a></li>
                 </ul>
               </div>
             </nav>
@@ -31,13 +32,13 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                Feel free to reach out to my email or LinkedIn above to connect!
+                feel free to reach out to my email or LinkedIn above to connect
               </small></p>
               <p><small>
-                Projects section coming soon
+              projects section coming soon
               </small></p>
               <p><small>
-                  Credit to <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for the design inspiration 
+                  credit to <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for the design inspiration 
               </small></p>
             </div>
           </aside>

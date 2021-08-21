@@ -18,11 +18,22 @@ export default class Timeline extends Component {
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon">
-                        <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/umn_logo.png" alt="umn_logo"/>
+                        <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/gs.png" alt="umn_logo"/>
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Engineering Internship at Goldman Sachs <span>June 2021-August 2021</span></h2>
+                        <p>I was on the Fixed Income Technology in the Asset Management division. My main deliverable was a dashboard that visualized real-time market trends for fixed income securities. With billions of ticks of market data coming in every day from multiple vendors, traders needed a way to quickly see movements in the market in order to optimize portfolios and monitor risk. I worked with my co-intern to create a dynamic, customizable, and actionable visualization tool that the traders could utilize to aggregate the market data on a sector level and quickly identify market trends. Along with this implementation, we migrated other portfolio management functionalities into a centralized platform in order to save traders countless hours of sourcing liquidity data. Most of my work was built using Scala, Java, and Angular.</p>
+                      </div>
+                    </div>
+                  </article>
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon">
+                      <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/umn_logo.png" alt="umn_logo"/>
                       </div>
                       <div className="timeline-label">
                         <h2>Began Graduate Studies <span>January 2021</span></h2>
-                        <p>I completed my undergraduate studies for my Bachelor of Science in computer science and began my graduate studies at the University of Minnesota, Twin Cities to obtain my Master of Science in computer science. Planning to pursue research in software engineering</p>
+                        <p>I completed my undergraduate studies for my Bachelor of Science in computer science with a minor in management and began my graduate studies at the University of Minnesota, Twin Cities to obtain my Master of Science in computer science. Planning to pursue research in software engineering.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +54,8 @@ export default class Timeline extends Component {
                         <img style={{display: 'inline', marginLeft: '00px', height: '100%', width: 'auto'}} src="images/umn_logo.png" alt="umn_logo"/>
                       </div>
                       <div className="timeline-label">
-                        <h2>Teaching Assistant at UMN Department of Computer Science <span>August 2020-December 2020</span></h2>
-                        <p>I was an undergraduate teaching assistant for the course: CSCI3081W - Program Design and Development under Dr. Mattia Fazzini. I collaborated with teaching staff to administer coursework, evaluate submissions, and analyze class performance in a remote learning environment due to COVID-19.</p>
+                        <h2>Teaching Assistant at UMN Dept. of Computer Science <span>August 2020-December 2020</span></h2>
+                        <p>Undergraduate teaching assistant for the course: CSCI3081W - Program Design and Development under Dr. Mattia Fazzini. I collaborated with teaching staff to administer coursework, evaluate submissions, and analyze class performance in a remote learning environment due to COVID-19.</p>
                       </div>
                     </div>
                   </article>
@@ -55,7 +66,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Joined WECharity at UMN <span>January 2020-January 2021</span></h2>
-                        <p>I was appointed Event Chairman of the University of Minnesota's chapter of WECharity. My role was to organize charity events to raise money for specific causes. Our highlight for this year was raising over $2000 for folks in Yemen who were severely affected by the COVID-19 pandemic.</p>
+                        <p>Appointed Event Chairman of the University of Minnesota's chapter of WECharity. My role was to organize charity events to raise money for specific causes. Our highlight for this year was raising over $2000 for folks in Yemen who were severely affected by the COVID-19 pandemic.</p>
                       </div>
                     </div>
                   </article>
@@ -66,7 +77,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Joined Girls Who Code at UMN <span>December 2019-May 2020</span></h2>
-                        <p>I joined as a programming mentor for a nonprofit organization which aims to support and increase the number of women in computer science by equipping young women with the necessary computing skills to pursue 21st century opportunities. </p>
+                        <p>Joined as a programming mentor for a nonprofit organization which aims to support and increase the number of women in computer science by equipping young women with the necessary computing skills to pursue 21st century opportunities. </p>
                       </div>
                     </div>
                   </article>
@@ -99,7 +110,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Joined Application Development Club at UMN <span>January 2018-December 2018</span></h2>
-                        <p>I joined my school's app dev club and I collaborated with developers and researchers to develop an application that assesses students’ competencies to identify particular social and behavioral needs and provides guidance to teachers on how to support their students using Android Studio and Java.</p> 
+                        <p>Joined my school's app dev club and I collaborated with developers and researchers to develop an application that assesses students’ competencies to identify particular social and behavioral needs and provides guidance to teachers on how to support their students using Android Studio and Java.</p> 
                       </div>
                     </div>
                   </article>
@@ -110,7 +121,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Joined CoderDojo <span>October 2017-January 2021</span></h2>
-                        <p>I joined an organzation where we mentored youth to code, build a website, create an app or game, and explore technology in an informal, creative, and social environment in a free, volunteer-led, community-based programming club.</p> 
+                        <p>Joined an organzation where we mentored youth to code, build a website, create an app or game, and explore technology in an informal, creative, and social environment in a free, volunteer-led, community-based programming club.</p> 
                       </div>
                     </div>
                   </article>
