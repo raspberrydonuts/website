@@ -1,5 +1,5 @@
 # Personal Website 
-My personal website made using React and deployed with Github Pages. Click [here](www.jaredplim.com) to check it out!
+My personal website made using React and deployed with Github Pages. Click [here](http://www.jaredplim.com) to check it out!
 
 I used [this template](https://colorlib.com/wp/template/jackson/) and implemented some of my own features on top
 
