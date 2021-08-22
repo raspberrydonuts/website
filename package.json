@@ -5,7 +5,7 @@
   "homepage": "http://www.jaredplim.com",
   "dependencies": {
     "axios": "^0.21.1",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
@@ -28,5 +28,21 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "My personal website made using React and deployed with Github Pages. Click [here](www.jaredplim.com) to check it out!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raspberrydonuts/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raspberrydonuts/website/issues"
+  }
 }
