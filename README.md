@@ -7,10 +7,10 @@ Built with React, deployed with Github Pages. Click [here](http://www.jaredplim.
 I forked an existing [repository](https://github.com/filipenatanael/vuejs-colorlib-jackson) and put my own spin on it. Thank you Filipe Natanael (filipenatanael) for rebuilding the ColorLib template source code.
 
 # Maintenance Guide
-Develop on brach master
-When finished with an iteration, run  `npm run build`
-Then run `npx gh-pages -b gh-pages -d build` to deploy the github page
-In Settings -> Pages, make sure branch source is gh-pages and /(root) is selected
+1. Develop on master branch 
+2. When finished with an iteration, run  `npm run build`
+3. Run `npx gh-pages -b gh-pages -d build` to deploy the github page
+4. In Settings -> Pages, make sure branch source is gh-pages and /(root) is selected
 
 # Site Analytics
 Custom site data analytics engine built with Node.js and MongoDB and deployed both of these to an AWS EC2 instance.

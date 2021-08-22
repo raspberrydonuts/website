@@ -12,7 +12,8 @@ ReactDOM.render(<App />, document.getElementById('root'));
 axios.get('https://cors-anywhere.herokuapp.com/http://ec2-3-132-140-197.us-east-2.compute.amazonaws.com:4000/addVisit', {
     headers: {
         'X-Requested-With': 'XMLHttpRequest'
-    }})
+    }
+})
     .then(res => {
         console.log(res.data)
     })
