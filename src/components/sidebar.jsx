@@ -24,7 +24,7 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                feel free to reach out to my email or LinkedIn above to connect
+                feel free to reach out to my email or LinkedIn below to connect
               </small></p>
               <p><small>
                 here's my <a href="https://github.com/raspberrydonuts/raspberrydonuts.github.io" target="_blank" rel="noopener noreferrer">source code</a>
