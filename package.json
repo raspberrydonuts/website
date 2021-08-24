@@ -34,7 +34,6 @@
   "directories": {
     "doc": "docs"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raspberrydonuts/website.git"
@@ -44,5 +43,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/raspberrydonuts/website/issues"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
